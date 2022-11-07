@@ -11,7 +11,7 @@ function ProjectPage() {
 
   let getProjectList = async () => {
     try {
-      let { data } = await axios.get("http://localhost:5007/api/projects");
+      let { data } = await axios.get("https://sanjivpaul-portfolio-api.herokuapp.com/api/projects");
       // console.log(data.result);
       if (data.status === true) {
         setProjectList([...data.result]);
