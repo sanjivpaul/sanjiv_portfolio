@@ -5,7 +5,7 @@ function FooterPage() {
         <h2 className="contact-title">Contact me!</h2>
         <div className="contact-links">
           <span>
-            <a className="links" href="mailto: risavsingh7462@gmail.com" target="_blank" rel="noopener noreferrer">
+            <a className="links" href="mailto: paulsanjiv81@gmail.com" target="_blank" rel="noopener noreferrer">
               <i class="fa-solid fa-envelope"></i>
             </a>
           </span>

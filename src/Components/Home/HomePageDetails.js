@@ -17,8 +17,8 @@ function HomePageDetails() {
             <span className="blue-sign">&#126; </span>
             <span className="white-dollar">$ contactInfo</span>
             <div className="white-ans contactinfo-container">
-              <a className="cmd-links" href="mailto: risavsingh7462@gmail.com">
-                "risavsingh7462@gmail.com",
+              <a className="cmd-links" href="mailto: paulsanjiv81@gmail.com">
+                "paulsanjiv81@gmail.com",
               </a>
               <a className="cmd-links" href="https://github.com/sanjivpaul">
                 "github",
