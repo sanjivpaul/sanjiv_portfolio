@@ -76,9 +76,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  /* width: 90vw; */
 }
 .linux-cmd {
-  width: 90vw;
+  width: auto;
   height: 90vh;
   /* background-color: #413a72; */
   color: white;
@@ -92,7 +93,6 @@ body {
 
 .intro-section {
   margin-bottom: 25px;
-  /* border: 2px solid red; */
 }
 
 .green-title {
@@ -106,6 +106,10 @@ body {
 
 .white-ans {
   color: #7171df;
+}
+.contactinfo-container {
+  display: flex;
+  flex-direction: column;
 }
 .cmd-links {
   text-decoration: none;

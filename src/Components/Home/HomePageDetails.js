@@ -16,26 +16,17 @@ function HomePageDetails() {
             <span className="white-colon">:</span>
             <span className="blue-sign">&#126; </span>
             <span className="white-dollar">$ contactInfo</span>
-            <p className="white-ans">
-              <span>
-                <a
-                  className="cmd-links"
-                  href="mailto: risavsingh7462@gmail.com"
-                >
-                  "risavsingh7462@gmail.com",
-                </a>
-              </span>
-              <span>
-                <a className="cmd-links" href="https://github.com/sanjivpaul">
-                  "github",
-                </a>
-              </span>
-              <span>
-                <a className="cmd-links" href="https://twitter.com/sanjivpaul_9/">
-                  "twitter"
-                </a>
-              </span>
-            </p>
+            <div className="white-ans contactinfo-container">
+              <a className="cmd-links" href="mailto: risavsingh7462@gmail.com">
+                "risavsingh7462@gmail.com",
+              </a>
+              <a className="cmd-links" href="https://github.com/sanjivpaul">
+                "github",
+              </a>
+              <a className="cmd-links" href="https://twitter.com/sanjivpaul_9/">
+                "twitter"
+              </a>
+            </div>
           </section>
 
           <section className="intro-section">
