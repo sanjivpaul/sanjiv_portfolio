@@ -36,8 +36,8 @@ function HomePageDetails() {
             <span className="white-dollar">$ resume</span>
             <p className="white-ans">
               <span>
-                <a className="cmd-links" href="https://github.com/sanjivpaul/sanjiv_portfolio/blob/master/public/PDF/sanjivpaulresume.pdf">sanjivpaul-resume.pdf </a>
-                {/* <iframe src="https://drive.google.com/drive/u/0/folders/1sAGQYXu5GPnxyHuGwL7w-ZFlD7dA4Ohc" style="width:718px; height:700px;" frameborder="0">sanjivpaul-resume.pdf</iframe> */}
+                <a className="cmd-links" href="https://drive.google.com/file/d/1PPKzI-zXkCiRusJnPwbKWaWxnyUyVcWH/view?usp=share_link">sanjivpaul-resume.pdf </a>
+               
                 </span>
             </p>
           </section>
