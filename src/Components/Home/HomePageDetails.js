@@ -35,7 +35,10 @@ function HomePageDetails() {
             <span className="blue-sign">&#126; </span>
             <span className="white-dollar">$ resume</span>
             <p className="white-ans">
-              <span>sanjivpaul-resume.pdf </span>
+              <span>
+                <a className="cmd-links" href="https://drive.google.com/drive/u/0/folders/1sAGQYXu5GPnxyHuGwL7w-ZFlD7dA4Ohc">sanjivpaul-resume.pdf </a>
+                {/* <iframe src="https://drive.google.com/drive/u/0/folders/1sAGQYXu5GPnxyHuGwL7w-ZFlD7dA4Ohc" style="width:718px; height:700px;" frameborder="0">sanjivpaul-resume.pdf</iframe> */}
+                </span>
             </p>
           </section>
 
