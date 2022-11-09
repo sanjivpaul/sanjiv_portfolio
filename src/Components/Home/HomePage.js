@@ -2,7 +2,7 @@ import ProjectPage from "../../Pages/ProjectPage";
 import HeroTitle from "./HeroTitle";
 import HomePageDetails from "./HomePageDetails";
 import FooterPage from "../../Pages/FooterPage";
-import { Routes, Route } from "react-router-dom";
+// import { Routes, Route } from "react-router-dom";
 
 function HomePage() {
   return (
