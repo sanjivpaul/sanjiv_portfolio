@@ -36,7 +36,7 @@ function HomePageDetails() {
             <span className="white-dollar">$ resume</span>
             <p className="white-ans">
               <span>
-                <a className="cmd-links" href="https://drive.google.com/file/d/11NT1O_ol2iDJD3Sti-Jl7siH3YPKEyeO/view?usp=share_link">sanjivpaul-resume.pdf </a>
+                <a className="cmd-links" href="https://drive.google.com/file/d/11NT1O_ol2iDJD3Sti-Jl7siH3YPKEyeO/view?usp=share_link">sanjivpaul.pdf </a>
                
                 </span>
             </p>
