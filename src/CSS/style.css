@@ -107,7 +107,7 @@ body {
 .white-ans {
   color: #7171df;
 }
-.contactinfo-container{
+.contactinfo-container {
   display: flex;
   flex-direction: column;
 }
@@ -338,6 +338,12 @@ body {
   font-size: 1rem;
   margin-bottom: 45px;
   font-weight: lighter;
+}
+/* Tablet */
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  .project-img-area {
+    display: none;
+  }
 }
 
 /* iphone SE */
